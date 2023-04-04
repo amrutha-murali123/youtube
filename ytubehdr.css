@@ -1,0 +1,115 @@
+.header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.left-section{
+    margin-left: 10px;
+    width: 160px;
+    display: flex;
+
+}
+.middile-section{
+    
+    flex: 1;
+    margin-left: 250px;
+    margin-right: 235px;
+    max-width: 650px;
+    vertical-align: middle;
+    display: flex;
+    
+}
+.right-section{
+    
+    width: 200px;
+    display: flex;
+    
+    
+}
+.searchbar{
+    margin-bottom: 200px;
+    width: 600px;
+    height: 37px;
+    border-radius: 25px;
+    position: relative;
+    border-width: 0.12px;
+    border-color: rgb(233, 223, 223);
+    
+
+    
+}
+.ham{
+    max-width: 55px;
+    max-height: 57px;
+    
+    margin-right: 6px;
+    
+    
+}
+.logo{
+    width: 83px;
+    height: 22px;
+    margin-top: 15px;
+} 
+.searchi{
+    position: absolute;
+    margin-left: 570px;
+    margin-top:11px;
+}
+.voicei{
+    margin-top: 10px;
+    margin-left: 14px;
+}
+.cnt31{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+}
+.cnt32{
+    height: 25px;
+    width: 25px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.cnt33{
+    border-radius: 100%;
+    height: 33px;
+    width: 32px;
+    margin-left: 25px;
+    margin-top: 8px;
+}
+.header{
+    
+    margin-bottom: 100px;
+}
+
+    
+    
+
+.but{
+    margin-right:4px;
+    border-radius: 8px;
+    border-color: rgb(249, 245, 245);
+    
+}
+.header2{
+    margin-bottom: 50px;
+    margin-left: 502px;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.sechead{
+    margin-top: -100px;
+    margin-left: -200px;
+}
+.allthumbs{
+    margin-top: -634px;
+    margin-right: 55px;
+    
+}
+.but{
+    padding: 6px;
+}
